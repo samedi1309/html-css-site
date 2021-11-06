@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+.flex-container-1 {
+    margin: 20px 20px 20px 90px
+}
+h1 {
+    color:#01518D;
+}
+
+.flex-container-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.flex-container-2 {
+    width: 539px;
+    display: flex;
+    justify-content: space-around;
+}
+.icon {
+    
+    width: 34px;
+    height: 34px;
+    background-color: #54C1FB;
+    border-radius: 50%;
+}
+.icon {
+    margin: 18px 90px 18px 18px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
